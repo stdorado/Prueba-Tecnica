@@ -1,0 +1,23 @@
+# Menú de Pizzería SPA
+Este proyecto es una Single Page Application (SPA) desarrollada como parte de una prueba técnica. Se trata de un menú interactivo para una pizzería, donde los usuarios pueden explorar diferentes categorías de alimentos, como pizzas y empanadas, y ver los productos disponibles en cada una.
+
+## Tecnologías utilizadas
+- **JavaScript Vanilla**: Se ha utilizado JavaScript puro para manejar la lógica del frontend, incluyendo el manejo de eventos, manipulación del DOM y el uso de Fetch API para obtener datos del servidor.
+- **HTML**: La estructura básica de la aplicación está construida con HTML5.
+- **CSS**: Se han aplicado estilos CSS para dar formato y diseño a la aplicación, sin utilizar ningún framework o preprocesador.
+
+## Funcionalidades principales
+
+- **Filtrado de categorías**: Utilizando un archivo JSON de datos, la aplicación filtra las categorías disponibles (pizzas, empanadas.) y muestra solo los productos.
+
+- **Visualización de productos**: Cada producto se muestra en forma de tarjeta, con su imagen, nombre, descripción y precio.
+
+
+## Estructura del proyecto
+El proyecto sigue una estructura simple:
+
+- `index.html`: El punto de entrada de la aplicación, que contiene la estructura HTML básica y enlaces a los archivos JavaScript y CSS.
+- `styles.css`: El archivo CSS donde se definen los estilos de la aplicación.
+- `script.js`: El archivo JavaScript que contiene la lógica de la aplicación, incluyendo el manejo de eventos y la manipulación del DOM.
+- `products.json`: El archivo JSON que contiene los datos de los productos, incluyendo su nombre, descripción, precio, categoría, y URL de imagen.
+- `assets`: La carpeta assets contiene algunas img que utilice, la mayoria igual son cargadas desde google para evitar el exceso de almacenamiento

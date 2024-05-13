@@ -1,0 +1,100 @@
+[
+  
+      {
+        "imagen": "https://cdn.pixabay.com/photo/2016/04/21/22/50/pizza-1344720_960_720.jpg",
+        "nombre": "Pizza de Capresse",
+        "descripcion": "Esta pizza está cubierta con rodajas de tomate maduro, fresca mozzarella de búfala, hojas de albahaca fresca y un toque de aceite de oliva virgen extra. La combinación de los tomates dulces, la suave mozzarella y el aroma de la albahaca crea una experiencia gastronómica italiana auténtica y satisfactoria.",
+        "precio": "$899.90",
+        "reviews": 100,
+        "categoria": "Pizzas"
+      },
+      {
+        "imagen": "https://cdn.pixabay.com/photo/2016/04/09/09/22/pizza-1317699_1280.jpg",
+        "nombre": "Pizza de Palmito",
+        "descripcion": "Está cubierta con generosas capas de jamón cocido, queso muzzarella derretido y tiras de morrón asado, que aportan un toque dulce y jugoso. La combinación de estos ingredientes crea una armonía de sabores y texturas que hacen que esta pizza sea una opción popular para todos los gustos.",
+        "precio": "$949.90",
+        "reviews": 50,
+        "categoria": "Pizzas"
+      },
+      {
+        "imagen": "https://cdn.pixabay.com/photo/2017/12/05/20/08/pizza-3000273_960_720.jpg",
+        "nombre": "Pizza California",
+        "descripcion": "Esta pizza está adornada con lonchas de jamón cocido, generosas porciones de queso muzzarella y un huevo crujiente en el centro. Al hornearla, el huevo se funde ligeramente sobre la pizza, creando una experiencia deliciosa y reconfortante en cada bocado.",
+        "precio": "$799.90",
+        "reviews": 103,
+        "categoria": "Pizzas"
+      },
+      {
+        "imagen": "https://cdn.pixabay.com/photo/2017/10/02/22/24/pizza-2810589_1280.jpg",
+        "nombre": "Pizza Cheddar Panceta",
+        "descripcion": "Esta pizza está adornada con lonchas de panceta, generosas porciones de queso muzzarella y un huevo crujiente en el centro. Al hornearla, el huevo se funde ligeramente sobre la pizza, creando una experiencia deliciosa y reconfortante en cada bocado.",
+        "precio": "$1199.90",
+        "reviews": 153,
+        "categoria": "Pizzas"
+      },
+      {
+        "imagen": "https://cdn.pixabay.com/photo/2015/02/13/11/04/pizza-634967_1280.jpg",
+        "nombre": "Pizza California",
+        "descripcion": "Esta pizza está adornada con lonchas de jamón cocido, generosas porciones de queso muzzarella y un huevo crujiente en el centro. Al hornearla, el huevo se funde ligeramente sobre la pizza, creando una experiencia deliciosa y reconfortante en cada bocado.",
+        "precio": "$799.90",
+        "reviews": 103,
+        "categoria": "Pizzas"
+      },
+      {
+        "imagen": "https://cdn.pixabay.com/photo/2014/04/22/02/56/pizza-329523_1280.jpg",
+        "nombre": "Super Pizza",
+        "descripcion": "Está cubierta con rodajas de salchicha doradas y crujientes, queso muzzarella derretido y un huevo frito en el centro. Cada bocado ofrece una mezcla deliciosa de sabores y texturas, desde la suavidad del queso hasta la jugosidad de la salchicha y la cremosidad del huevo.",
+        "precio": "$600.00",
+        "reviews": 107,
+        "categoria": "Pizzas"
+      },
+      {
+        "imagen": "https://cdn.pixabay.com/photo/2017/04/29/00/42/empanadas-2269803_1280.jpg",
+        "nombre": "Empanada Cheddar Panceta",
+        "descripcion": "Cada bocado ofrece una mezcla armoniosa de ingredientes, con un relleno cremoso y reconfortante envuelto en una masa dorada y crujiente. Esta empanada es perfecta para satisfacer antojos y deleitar el paladar en cualquier momento del día.",
+        "precio": "$200.00",
+        "reviews": 98,
+        "categoria": "Empanadas"
+      },
+      {
+        "imagen": "https://media.istockphoto.com/id/1176364232/es/foto/chilean-empanadas-con-carne.jpg?s=2048x2048&w=is&k=20&c=15qo1QXPbnVzQDxJtgvHxMRLi57j9YQLR3ai5otEjNw=",
+        "nombre": "Empanada JyQ",
+        "descripcion": "Cada bocado ofrece una mezcla armoniosa de ingredientes, con un relleno cremoso y reconfortante envuelto en una masa dorada y crujiente. Esta empanada es perfecta para satisfacer antojos y deleitar el paladar en cualquier momento del día.",
+        "precio": "$150.00",
+        "reviews": 98,
+        "categoria": "Empanadas"
+      },
+      {
+        "imagen": "https://imgs.search.brave.com/iTsj4pH07piWB4AnZaWuArX1kv3Yl-0nQff0xLfTMsY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/Y3JvbmlzdGEuY29t/L2ZpbGVzL2ltYWdl/LzQwOS80MDk3NDcv/NjFhMGY3N2JiNzhk/N185NTBfNTM0IS5q/cGc_cz0zZmY5NTlh/OTU1NjY5NmUxMGM4/Yzc4MzZiZmM2NDJi/OCZkPTE2Mzc5NDA1/Mjk",
+        "nombre": "Empanada JyQ",
+        "descripcion": "Cada bocado ofrece una mezcla armoniosa de ingredientes, con un relleno cremoso y reconfortante envuelto en una masa dorada y crujiente. Esta empanada es perfecta para satisfacer antojos y deleitar el paladar en cualquier momento del día.",
+        "precio": "$150.00",
+        "reviews": 98,
+        "categoria": "Empanadas"
+      },
+      {
+        "imagen": "https://imgs.search.brave.com/pv04gAb2DYk0rcnAX4tirUj4OXs4XqiNuVNiOny8O0A/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuZWxnb3VybWV0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMy8wMy9lbXBh/bl9pcVBZREZ1Uklj/ZUI5T01hbWpwMXJ0/QWc2Zm9kdmstMTAy/NHg2ODMucG5nLndl/YnA",
+        "nombre": "Empanada Carne",
+        "descripcion": "El interior de esta empanada está repleto de carne picada cocida a la perfección, mezclada con cebolla, pimientos y condimentos, todo envuelto en una masa dorada y crujiente. Cada bocado es una explosión de sabor y textura que te transporta a los sabores auténticos de la cocina casera.",
+        "precio": "$150.00",
+        "reviews": 42,
+        "categoria": "Empanadas"
+      },
+      {
+        "imagen": "https://imgs.search.brave.com/oxuj9tCVlCQsn8PUm9bB4d9NiPSnNLd3f8sR_IYWIBM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly92aWFw/YWlzLmNvbS5hci9y/ZXNpemVyLzZzalJ1/WW9ubUlGV1F1MGp6/XzEtMzAwWGxTND0v/NjQweDM2MC9zbWFy/dC9maWx0ZXJzOnF1/YWxpdHkoNzUpOmZv/cm1hdCh3ZWJwKS9j/bG91ZGZyb250LXVz/LWVhc3QtMS5pbWFn/ZXMuYXJjcHVibGlz/aGluZy5jb20vZ3J1/cG9jbGFyaW4vUlJN/SlRPVUU1RkhRTkpQ/VU5VU05WVlpaUFku/anBn",
+        "nombre": "Empanada Verdura",
+        "descripcion": "Su relleno está compuesto por una mezcla de vegetales frescos, como espinacas, cebolla, pimientos y zanahorias, sazonados con hierbas aromáticas y especias. El resultado es un bocado colorido y nutritivo, envuelto en una masa dorada y crujiente que cautiva tanto a vegetarianos como a amantes de la buena comida.",
+        "precio": "$150.00",
+        "reviews": 108,
+        "categoria": "Empanadas"
+      },
+      {
+        "imagen": "https://imgs.search.brave.com/OVbKSrx4zgJxm_9Sj4hSdiQyfPggoSPInqFkJ9ZiBWs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2lyY3VpdG9nYXN0/cm9ub21pY28uY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzExL1JhaXotZW1w/YW5hZGFzLWNhc2Vy/YXMuanBn",
+        "nombre": "Empanada Choclo",
+        "descripcion": "Su relleno está hecho con granos tiernos de choclo (maíz) mezclados con cebolla, queso y condimentos, creando una combinación de sabores y texturas irresistibles. Cada bocado ofrece una explosión de sabor dulce y cremoso, envuelto en una masa dorada y crujiente que conquista los corazones de aquellos que buscan un toque de autenticidad en cada bocado.",
+        "precio": "$150.00",
+        "reviews": 109,
+        "categoria": "Empanadas"
+      }
+  
+]

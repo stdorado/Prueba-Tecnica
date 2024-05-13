@@ -1,0 +1,189 @@
+#logo {
+    display: flex;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+#logo img {
+    width: 50px; 
+    height: auto;
+    margin-right: 10px;
+}
+#logo h1 {
+    margin: 0;
+    font-size: 20px;
+}
+@media screen and (max-width: 600px) {
+    #logo img {
+        width: 40px; 
+    }
+    #logo h1 {
+        font-size: 16px; 
+    }
+}
+
+
+/*SECCION 1 */
+
+.section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    padding: 20px;
+    border-top: 2px solid #333; 
+    font-family: Arial, sans-serif;
+}
+.section .left {
+    flex: 1;
+    font-size: 108px; 
+}
+.section .right {
+    flex: 1;
+    text-align: center;
+}
+.section .right img {
+    width: 600px; 
+    height: auto;
+}
+.highlight-yellow {
+    color: #FFD60A;
+    font-weight: bold;
+}
+.highlight-red {
+    color: #D90429;
+    font-weight: bold;
+}
+
+/* sección 2 */
+.section-3 {
+    background-color: #D00000; 
+    color: white; 
+    text-align: center;
+    padding: 50px 0; 
+}
+.square {
+    width: 100%; 
+    height: 1vh;
+    max-width: 100%; /* Para evitar el desbordamiento horizontal */
+    max-height: 100%; /* Para evitar el desbordamiento vertical */
+    background-color: #D00000; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu-title {
+    font-size: 36px; 
+}
+
+
+
+ /* Estilos  para la sección 3 */
+ .section-4 {
+    text-align: left;
+    padding: 50px 0; 
+}
+.section-4 h2 {
+    font-size: 56px; 
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 30px;
+}
+.section-4 h2 img {
+    margin-right: 10px; 
+    width: 50px; 
+    height: auto;
+}
+
+/*CARDS - PRODUCTOs*/
+#pizzas {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+}
+
+/* Estilos para las tarjetas */
+.card {
+    border: 2px solid #000000;
+    border-radius: 8px;
+    box-shadow: 0 7px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    background-color: #fff;
+    width: calc(33.333% - 20px);
+    margin-bottom: 20px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ccc;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    
+}
+
+.card-text {
+    margin-bottom: 10px;
+}
+
+.card-text:last-child {
+    margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+    /* Estilos para dispositivos móviles */
+    .card {
+        width: calc(50% - 20px);
+    }
+}
+
+/*CARDS EMPANADAS*/
+
+#empanadas {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+}
+
+
+/*FOOTER*/
+.footer {
+    bottom: 0;
+    width: 100%;
+    background-color: #D00000;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+    /* Estilos para dispositivos móviles */
+    .section .left {
+        font-size: 48px; 
+    }
+    
+    .section .right img {
+        width: 100%; 
+    }
+}
+
+@media (max-width: 768px) {
+
+    /* Tarjetas de Pizzas */
+    #pizzas .card {
+        width: calc(100% - 20px); 
+    }
+
+    /* Tarjetas de Empanadas */
+    #empanadas .card {
+        width: calc(100% - 20px); 
+    }
+}
